@@ -1,4 +1,4 @@
-# Enterprise-Network-Simulation
+
 A comprehensive networking lab designed to simulate an enterprise-grade infrastructure across multiple campuses, focusing on scalability, redundancy, secure connectivity, and service availability. This project aimed to strengthen practical skills in network architecture, security implementation, and device configuration using Cisco technologies.
 ____________________________________________________________________________________________________________________________________________________
 # 🏛️ Enterprise Network Simulation Project
@@ -64,5 +64,6 @@ Developed under **GURUTECH NETWORKS**
 
 Comprehensive testing confirmed device communication, service reachability, protocol convergence, and redundancy effectiveness — ensuring the simulated network meets business requirements and is future-proofed for scale and security.
 
+<img width="2955" height="2464" alt="gg" src="https://github.com/user-attachments/assets/5a7719fb-6db5-446c-8fd4-f1dba133bc46" />
 
 
